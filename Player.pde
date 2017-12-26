@@ -2,7 +2,7 @@ class Player {
 
   PImage img;
   float x, y, speed;
-  float w = 90, h = 90;
+  float w = 95, h = 95;
   final float PLAYER_INIT_X = SOIL_SIZE;
   final float PLAYER_INIT_Y = height - SOIL_SIZE - h;
 
